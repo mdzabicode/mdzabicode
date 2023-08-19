@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student/developer from India</h3>
 
 # 💫 About Me:
-🌱 I am a Full Stack Web Developer/Open Source Contributor<br>📫 How to reach me mdzabikhan25@gmail.com
+🌱 I am a Front-end Developer/Open Source Contributor<br>📫 How to reach me mdzabikhan25@gmail.com
 
 # 💻 Tech Stack:
 |               |           |
