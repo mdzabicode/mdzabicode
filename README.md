@@ -25,3 +25,6 @@
 <a href="https://twitter.com/Mdzabikhan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adnan9381" height="30" width="40" /></a>
 <a href="linkedin.com/in/mohammed-zabi-khan-b21ab7228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdadnansami" height="30" width="40" /></a>
 </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MdZabiCode&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
